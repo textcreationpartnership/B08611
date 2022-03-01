@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the memory of my dear friend and brother, Mr. William Taylor, late preacher of the gospel in St. Stephens Coleman-Street</title>
+            <author>T. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08611</idno>
+            <idno type="STC">Wing C142AA</idno>
+            <idno type="STC">ESTC R173311</idno>
+            <idno type="EEBO-CITATION">62369056</idno>
+            <idno type="OCLC">ocm 62369056</idno>
+            <idno type="VID">187813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187813)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2845:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the memory of my dear friend and brother, Mr. William Taylor, late preacher of the gospel in St. Stephens Coleman-Street</title>
+                  <author>T. C.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: T. C.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taylor, William --  Death and burial.</term>
+               <term>Funeral sermons --  England --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187813:1" rendition="simple:additions"/>
+            <pb facs="tcp:187813:1" rendition="simple:additions"/>
+            <pb facs="tcp:187813:2"/>
+            <pb n="1" facs="tcp:187813:2" rendition="simple:additions"/>
+            <head>
+               <hi>To the Memory of my dear Friend and Brother,</hi> Mr. William Taylor, <hi>late Preacher of the Goſpel in</hi> St. Stephens Coleman-ſtreet.</head>
+            <lg>
+               <l>
+                  <hi>IS Taylor</hi> dead? <hi>Taylor</hi> of <hi>Coleman-ſtreet?</hi>
+               </l>
+               <l>That learned Orthodox Divine, that ſweet</l>
+               <l>Evangeliſt; that true <hi>Nathaniel,</hi>
+               </l>
+               <l>An <hi>Iſraelite,</hi> in whom no guile did dwell:</l>
+               <l>
+                  <hi>Simple,</hi> yet <hi>Compounded,</hi> vertues combin'd</l>
+               <l>Within his heavenly boſome were enſhrin'd.</l>
+               <l>Who can compute our loſs? for in this one</l>
+               <l>We, truly, ſeem to loſe a <hi>Million.</hi>
+               </l>
+               <l>Strife was 'twixt's Life and Doctrine t' inherit</l>
+               <l>The Preeminence, either did it merit;</l>
+               <l>But 'twas concluded, to decide the ſtrife,</l>
+               <l>
+                  <hi>Life</hi> was in his Doctrine, <hi>Doctrine</hi> in his life:</l>
+               <l>He taught by both, his Congregation,</l>
+               <l>He <hi>Doctrine</hi> Preach't, liv'd the <hi>Application.</hi>
+               </l>
+               <l>So great a <hi>Student,</hi> one would think that he</l>
+               <l>Neglected had his <hi>publique Miniſtry,</hi>
+               </l>
+               <l>And yet in <hi>publique,</hi> ſo did he abound,</l>
+               <l>You'd think no time for <hi>study</hi> could be found;</l>
+               <l>Save that the hearer well might judge that he</l>
+               <l>Such notions never Preach't <hi>Extemporie.</hi>
+               </l>
+               <l>Some for <hi>op'ning the Text,</hi> do paſſing well;</l>
+               <l>Others in <hi>Application</hi> do excell;</l>
+               <l>Some men with skill in <hi>Languages</hi> abound,</l>
+               <l>In th' <hi>Antient Fathers</hi> others are profound.</l>
+               <l>Some for <hi>School-Divinity,</hi> famous are,</l>
+               <l>Some <hi>Practical,</hi> ſome for <hi>Polemik</hi> rare,</l>
+               <pb n="2" facs="tcp:187813:3"/>
+               <l>The gift of ſome doth moſt in <hi>Prayer</hi> lie,</l>
+               <l>In <hi>Preaching</hi> others claim their exc'llency:</l>
+               <l>
+                  <hi>Taylor</hi> excell'd in All, as if that He</l>
+               <l>Of All theſe gifts had the <hi>Monopoly.</hi>
+               </l>
+               <l>
+                  <hi>Sweet</hi> in converſe, <hi>deligh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ful,</hi> but not <hi>vain;</hi>
+               </l>
+               <l>Nothing <hi>impure</hi> did his Communion ſtain.</l>
+               <l>
+                  <hi>Humble,</hi> but not <hi>buſe; Grave,</hi> but not <hi>auſtere;</hi>
+               </l>
+               <l>Not <hi>rash,</hi> but <hi>valiant; joy</hi> was mixt with <hi>fear.</hi>
+               </l>
+               <l>
+                  <hi>Meek</hi> in his <hi>own Cauſe,</hi> but in <hi>Gods</hi> ſo <hi>ſtout,</hi>
+               </l>
+               <l>The <hi>Zeal thereof did wholly eat him out.</hi> 
+                  <note place="margin">Pſal. 69. 9.</note>
+               </l>
+               <l>His <hi>bounty</hi> had undone him, but that he</l>
+               <l>Did give in <hi>Faith,</hi> as well as <hi>Charity.</hi>
+               </l>
+               <l>He ey'd the <hi>Promiſe</hi> which ſaith not in vain,</l>
+               <l>
+                  <note n="*" place="margin">Prov. 11. 25.</note> 
+                  <hi>He that waters, wat'red ſhall be again.</hi>
+               </l>
+               <l>Thus he <note n="*" place="margin">Iſa. 32 8.</note> thriv'd by giving, for thereby,</l>
+               <l>The <hi>bread</hi> which <hi>Love</hi> did <hi>break, Faith</hi> did <hi>break, Faith</hi> did <hi>multiply.</hi>
+               </l>
+               <l>Caſes of Conſcience, skilful to untie</l>
+               <l>He was, and balm to wounded ſouls apply.</l>
+               <l>His dear <hi>Relations</hi> ſo fulfil did he</l>
+               <l>With fruitful influence, and Piety,</l>
+               <l>That <hi>Wife, Children, Servants, Familiars</hi> All</l>
+               <l>Riſing up early, did him <hi>Bleſsed</hi> call.</l>
+               <l>Faithful he was to his <hi>Religion,</hi>
+               </l>
+               <l>His <hi>Principles, Truſt,</hi> and his <hi>Commiſſion.</hi>
+               </l>
+               <l>Faithful to <hi>Chriſt,</hi> till death, nothing could make</l>
+               <l>That precious Saint once to <hi>prevaricate;</hi>
+               </l>
+               <l>Not <hi>Wife,</hi> or <hi>Children,</hi> nor of all moſt dear,</l>
+               <l>His <hi>Miniſtry;</hi> Nothing did lie ſo near</l>
+               <l>His heart as th' <hi>intereſt of Chriſt:</hi> For <hi>Him</hi>
+               </l>
+               <l>Death in its horrid'ſt ſhape had welcome bin.</l>
+               <l>Nothing too dear for Chriſt: He knew full well,</l>
+               <l>
+                  <hi>Chriſt</hi> had redeem'd him from the loweſt <hi>Hell.</hi>
+               </l>
+               <l>In ſhort, this was the <hi>Value</hi> of the man,</l>
+               <l>
+                  <hi>Each mans p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rfection</hi> made his <hi>Anagram.</hi>
+               </l>
+               <l>And is he gone? Let <hi>England</hi> mourn, 'cauſe ſhe</l>
+               <l>Hath loſt a Mourner, a true <hi>Jeremie;</hi>
+               </l>
+               <l>Another <hi>Elijah,</hi> who for her ſake,</l>
+               <l>
+                  <hi>Interceſſion</hi> unto God did make</l>
+               <pb n="3" facs="tcp:187813:3"/>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nceſſantly.</hi> Let <hi>London</hi> weep a tear,</l>
+               <l>Becauſe a light is fallen from her Sphere,</l>
+               <l>Of ſweeteſt influence, and perfection,</l>
+               <l>No <hi>ſingle Star,</hi> but a <hi>Conſtellation.</hi>
+               </l>
+               <l>Yea, let his Orphane <hi>Congregation</hi> weep</l>
+               <l>Forth ſad laments; Now left as <hi>ſheep</hi>
+               </l>
+               <l>Without their <hi>Shepherd;</hi> Let <hi>Wife</hi> and Children moan,</l>
+               <l>Her <hi>Guide of youth,</hi> Her <hi>Boſome-Teacher</hi>'s gone;</l>
+               <l>Their <hi>Father,</hi> who by <hi>Paul-like</hi> Prodigie</l>
+               <l>Chang'd <hi>Sex,</hi> and <hi>travell'd,</hi> their <hi>New-birth</hi> to ſee.</l>
+               <l>Let Friends lament, to whoſe <hi>Arcana</hi> He</l>
+               <l>Was wont both <hi>Ark</hi> and <hi>Oracle</hi> to be.</l>
+               <l>And oh that mine head were waters, mine eye</l>
+               <l>Of tears a fountain day and night to cry</l>
+               <l>My ſad complaints, for loſs of ſuch a Friend,</l>
+               <l>Who as <hi>another Soul</hi> to me hath bin. <note place="margin">
+                     <hi>Credere unam animam in du<g ref="char:EOLhyphen"/>obus eſſe divi<g ref="char:EOLhyphen"/>ſam.</hi> Min. Hel. Octav.</note>
+               </l>
+               <l>At the report of ſo ſad a ſtory,</l>
+               <l>Who can forbear, <note n="*" place="margin">Jer. 22. 18.</note> 
+                  <hi>Ah Lord, and ah his glory!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This Aggravates our ſorrows, that his <hi>Sun</hi>
+               </l>
+               <l>Did ſet <hi>at Noon,</hi> before his work was done.</l>
+               <l>
+                  <hi>Before his work was done!</hi> I muſt unſay</l>
+               <l>That word, His work was done in <hi>half his day:</hi>
+               </l>
+               <l>So faſt he wrought, and being girt with might,</l>
+               <l>Thought his task to <hi>double</hi> 'fore 'twas <hi>night;</hi>
+               </l>
+               <l>Death <hi>ſnarl'd,</hi> yet fearing th' encounter; at length</l>
+               <l>Layes <hi>Ambuſh</hi> for him; and conſumes his ſtrength</l>
+               <l>By <hi>lingring ſickneſs,</hi> promiſing thereby <note place="margin">A Conſumpti<g ref="char:EOLhyphen"/>on.</note>
+               </l>
+               <l>Unto himſelf the eaſier Victory.</l>
+            </lg>
+            <lg>
+               <l>But was no means applied in due time,</l>
+               <l>To have prevented Death's fore-ſeen deſign?</l>
+               <l>Why were not Learned <hi>Phyſitians</hi> feed</l>
+               <l>To conſult his <hi>Cure?</hi> Ah, there was no need;</l>
+               <l>Of ſo great worth, ſo much belov'd was he,</l>
+               <l>They feed <hi>Him,</hi> their <hi>Patient</hi> for to be:</l>
+               <l>That <hi>Proto-Medicus</hi> of <hi>Court,</hi> ſans compare,</l>
+               <l>Invites him home, to be his Boſom-Care,</l>
+               <l>And Studies him with ſuch anxiety,</l>
+               <l>As, if <hi>Taylor</hi> liv'd not, <hi>Himſelf</hi> muſt dye.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:187813:4"/>
+               <l>But all in vain: Then where <hi>Phyſitians</hi> end,</l>
+               <l>
+                  <hi>Divines</hi> begin; whole dayes in prayer they ſpend,</l>
+               <l>As <hi>Luther</hi> for <hi>Miconius</hi> once did pray. <note place="margin">Melch. Ad.</note>
+               </l>
+               <l>As if they mean't not God ſhould ſay them nay;</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Not like ſucceſs!</hi> Prayer, that could command</l>
+               <l>The <note n="*" place="margin">Joſh. 10. 12, 13.</note> 
+                  <hi>Sun ſtand ſtill</hi> once <hi>an whole dayes ſpace,</hi> and</l>
+               <l>Bring <note n="*" place="margin">2 King. 20. 11.</note> back the ſhade in King <hi>Ahaz Diall,</hi>
+               </l>
+               <l>By <hi>ten degrees gone down,</hi> could not recall</l>
+               <l>The Setting Sun of holy <hi>Taylors life;</hi>
+               </l>
+               <l>Nor all the cryes, of <hi>Children,</hi> or of <hi>Wife:</hi>
+               </l>
+               <l>
+                  <hi>His work was done;</hi> Then ſaid his Lord to him,</l>
+               <l>
+                  <note n="*" place="margin">Mat. 25. 21, 22.</note> 
+                  <hi>Well done Good Servant, Faithful thou haſt bin,</hi>
+               </l>
+               <l>
+                  <hi>In what is leſs,</hi> Come take thy <hi>Robe</hi> and <hi>Crown,</hi>
+               </l>
+               <l>And <note n="*" place="margin">Rev. 3. 21.</note> 
+                  <hi>Reign with me for ever on my Throne.</hi>
+               </l>
+               <l>A joyful word it was; for when as he</l>
+               <l>
+                  <hi>Death,</hi> as his <hi>Fathers Meſſenger,</hi> did ſee</l>
+               <l>Make his approach, <hi>He, Welcome Death,</hi> did cry,</l>
+               <l>
+                  <hi>Welcome my beſt friend, welcome Eternity.</hi>
+               </l>
+               <l>But Death <hi>retreating;</hi> much he did complain,</l>
+               <l>Death <hi>retreating;</hi> much he did complain,</l>
+               <l>As one near <hi>Shore,</hi> hurl'd back into the <hi>Main</hi>
+               </l>
+               <l>Of <hi>Diſappointment;</hi> ceaſed not to mourn,</l>
+               <l>Untill eft-ſoon Death haſt'ned his return;</l>
+               <l>And from the Court of Heaven, his <hi>fiat</hi> brings:</l>
+               <l>Then <hi>Bowing head Swan-like</hi> (this Song) he ſings,</l>
+            </lg>
+            <lg>
+               <l>Into thy hands, Lord, I commit</l>
+               <l>My ſpirit, which is thy due, <note place="margin">Pſal. 31. 5.</note>
+               </l>
+               <l>For why thou hast redeemed it,</l>
+               <l>Oh Lord my God moſt true.</l>
+            </lg>
+            <lg>
+               <l>I'le ſay no more, but add to <hi>Balaam</hi>'s wiſh,</l>
+               <l>
+                  <hi>LET HIS LIFE BE MINE,</hi> 
+                  <note n="*" place="margin">Numb. 23. 10.</note> my laſt end like His.</l>
+            </lg>
+            <closer>
+               <signed>Sic maerens flevit T. C.</signed>
+            </closer>
+            <pb facs="tcp:187813:4"/>
+            <pb facs="tcp:187813:5"/>
+            <pb facs="tcp:187813:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
